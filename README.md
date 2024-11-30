@@ -21,6 +21,8 @@ https://testnet.bscscan.com/address/0xde40d445a7027f2771cb4472aac2c92152a3be9b#c
 
 ![Add-new-propperty](https://raw.githubusercontent.com/songonha/ORWA-BNB-HACK-BANGKOK/main/public/assets/images/media/kyc-profile.png)
 
+https://www.investax.io/blog/three-major-types-of-tokenization-platform-providers
+
 # TASK 4: STAKING RWA Token
 
 ![Add-new-propperty](https://raw.githubusercontent.com/songonha/ORWA-BNB-HACK-BANGKOK/main/public/assets/images/media/staking-n-auction.png)
