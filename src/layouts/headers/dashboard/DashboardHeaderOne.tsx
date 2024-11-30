@@ -30,20 +30,14 @@ const DashboardHeaderOne = ({ isActive, setIsActive }: any) => {
                   <li className="bottom-line pt-30 lg-pt-20 mb-40 lg-mb-30"></li>
                   <li><div className="nav-title">Economics</div></li>
                   <li className="plr">
-                     <Link to="/dashboard/profile" className={`d-flex w-100 align-items-center ${pathname === '/dashboard/profile' ? 'active' : ''}`} onClick={() => handleNavigation('/dashboard/profile')}>
-                        <img src={pathname === '/dashboard/profile' ? "/assets/images/dashboard/icon/icon_3_active.svg" : "/assets/images/dashboard/icon/icon_3.svg"} alt="" />
-                        <span>Economics</span>
-                     </Link>
-                  </li>
-                  <li className="plr">
                      <Link to="/dashboard/message" className={`d-flex w-100 align-items-center ${pathname === '/dashboard/message' ? 'active' : ''}`} onClick={() => handleNavigation('/dashboard/message')}>
-                        <img src={pathname === '/dashboard/message' ? "/assets/images/dashboard/icon/icon_2_active.svg" : "/assets/images/dashboard/icon/icon_2.svg"} alt="" />
+                        <img src={pathname === '/dashboard/message' ? "/assets/images/dashboard/icon/usdc-usd-coin.svg" : "/assets/images/dashboard/icon/logo-usd.svg"} alt="" />
                         <span>Staking RWA Token</span>
                      </Link>
                   </li>
                   <li className="plr">
                      <Link to="/dashboard/auction" className={`d-flex w-100 align-items-center ${pathname === '/dashboard/auction' ? 'active' : ''}`} onClick={() => handleNavigation('/dashboard/auction')}>
-                        <img src={pathname === '/dashboard/auction' ? "/assets/images/dashboard/icon/icon_2_active.svg" : "/assets/images/dashboard/icon/icon_2.svg"} alt="" />
+                        <img src={pathname === '/dashboard/auction' ? "/assets/images/dashboard/icon/usdc-usd-coin.svg" : "/assets/images/dashboard/icon/logo-usd.svg"} alt="" />
                         <span>RWA Token Auction</span>
                      </Link>
                   </li>
