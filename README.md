@@ -28,3 +28,5 @@ https://testnet.bscscan.com/address/0xde40d445a7027f2771cb4472aac2c92152a3be9b#c
 STAKING NOTES: https://docs.google.com/document/d/11wsvShrpfthZAyxJlQqXu7z7pjeH-lHh5KmL_Lsftog/edit?usp=sharing
 
 # TASK 5: Listing RWA Token on London and Dutch Auction.
+
+LINK: https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
