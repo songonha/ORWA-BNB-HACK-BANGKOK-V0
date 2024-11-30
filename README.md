@@ -17,7 +17,7 @@ https://testnet.bscscan.com/address/0xde40d445a7027f2771cb4472aac2c92152a3be9b#c
 ![Add-new-propperty](https://raw.githubusercontent.com/songonha/ORWA-BNB-HACK-BANGKOK/main/public/assets/images/media/user-profile.png)
 
 
-# TASK 3: KYC user profile with complycube.com
+# TASK 3: KYC user profile with complycube.com or sumsub.com
 
 ![Add-new-propperty](https://raw.githubusercontent.com/songonha/ORWA-BNB-HACK-BANGKOK/main/public/assets/images/media/kyc-profile.png)
 
